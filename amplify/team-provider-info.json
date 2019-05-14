@@ -1,14 +1,14 @@
 {
-    "dev": {
+    "prod": {
         "awscloudformation": {
-            "AuthRoleName": "expo-web-app-dev-20190513105415-authRole",
-            "UnauthRoleArn": "arn:aws:iam::483556968814:role/expo-web-app-dev-20190513105415-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::483556968814:role/expo-web-app-dev-20190513105415-authRole",
+            "AuthRoleName": "expo-web-app-prod-20190514121221-authRole",
+            "UnauthRoleArn": "arn:aws:iam::483556968814:role/expo-web-app-prod-20190514121221-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::483556968814:role/expo-web-app-prod-20190514121221-authRole",
             "Region": "eu-west-1",
-            "DeploymentBucketName": "expo-web-app-dev-20190513105415-deployment",
-            "UnauthRoleName": "expo-web-app-dev-20190513105415-unauthRole",
-            "StackName": "expo-web-app-dev-20190513105415",
-            "StackId": "arn:aws:cloudformation:eu-west-1:483556968814:stack/expo-web-app-dev-20190513105415/7327e430-756d-11e9-b706-0a611b368f3e"
+            "DeploymentBucketName": "expo-web-app-prod-20190514121221-deployment",
+            "UnauthRoleName": "expo-web-app-prod-20190514121221-unauthRole",
+            "StackName": "expo-web-app-prod-20190514121221",
+            "StackId": "arn:aws:cloudformation:eu-west-1:483556968814:stack/expo-web-app-prod-20190514121221/86aa72a0-7641-11e9-8b9b-0a4044c481ac"
         }
     }
 }
